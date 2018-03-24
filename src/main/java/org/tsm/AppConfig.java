@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.crm;
+package org.tsm;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.beans.factory.config.PropertyPlaceholderConfigurer;

@@ -1,4 +1,4 @@
-package org.crm;
+package org.tsm;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletRegistration;
@@ -10,9 +10,6 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
 import org.springframework.context.annotation.Import;
 import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;
 import org.springframework.web.servlet.DispatcherServlet;
-
-
-
 
 @SpringBootApplication
 @EnableJSONDoc

@@ -1,4 +1,4 @@
-package org.crm;
+package org.tsm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
