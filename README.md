@@ -4,6 +4,11 @@
   - maven 3.0.5
   - redis 3.0.7
   - mysql 5.67  - java 8
+  - Liquibase
+  - MySql
+  - Swagger
+  - Jackson
+  - 
 
 # setup build and run
 1. clone the repository into your local machine.
