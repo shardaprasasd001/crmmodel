@@ -1,0 +1,52 @@
+Facbook 
+	Token expire time extend  --- Pra  
+        multiple image post  -- Ajay
+	emogies/unicode for facebook -- Ajay
+	Scheduler post need to publish -- para
+        
+Activity profile id for meadia type(facebook/twitter)
+user Profile post, User profile image link need to be stored -- par
+
+Confirm page
+
+	Vedio preview on Confirm page
+	presentation preview on Confirm page
+	
+
+Export Functionality
+
+based on Campaign activity calendar date to be disable  
+
+Activity schdule timezone based data manipulation 
+
+manage profile at admin side
+
+nginx level file upload size need to be upload
+
+tomcat level file upload size need to be incresed
+
+UTM code related chagne
+
+Shorted code related chagnes
+
+Price Calutalion and at Campaign and activity level changes 
+
+Twitter details need to be shared 
+
+Linked 
+
+Google pluse API integration 
+
+demo account for facebook, Twitter, Google pluse, pinterest, instagram, Linkedin, you tube, shide share 
+
+Blong    -- Wordpress
+
+
+
+
+
+
+
+
+
+
